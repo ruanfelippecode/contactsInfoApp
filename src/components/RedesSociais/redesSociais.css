@@ -1,0 +1,30 @@
+a {
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-decoration: none;
+  color: var(--cor-bg);
+  background-color: var(--cor-secundaria);
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  border-radius: 12px;
+  font-weight: 600;
+  font-size: 1.2em;
+  padding: 18px;
+  position: relative;
+  margin: 15px;
+  transition: 0.25s ease-in;
+}
+
+a:hover {
+  transform: scale(1.03);
+  color: var(--cor-secundaria);
+  background-color: var(--cor-bg);
+}
+
+.conteudo_links {
+  max-width: 800px;
+  margin: auto;
+}

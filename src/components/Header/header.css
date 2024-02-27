@@ -1,0 +1,19 @@
+.perfil_conteudo {
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  margin: 35px 0;
+  text-align: center;
+  color: #e0fbfc;
+}
+
+.perfil_imagem {
+  display: block;
+  margin: auto;
+  width: 96px;
+  height: 96px;
+  background-image: url("https://media.licdn.com/dms/image/D4D03AQFaS0i_JIwVDg/profile-displayphoto-shrink_800_800/0/1708738747348?e=1714003200&v=beta&t=bRFnhxBxh6M6hTiVnlSfO_UNto5wXPQaVD5cD93ABqA");
+  background-size: cover;
+  border-radius: 50%;
+}
