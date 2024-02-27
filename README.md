@@ -1,0 +1,3 @@
+This project is a clone-ish of Linktree, which I took the liberty of using on my personal Instagram profile, 
+to redirect access to my professional profile.
+There really isn't much in particular, a simple project made with React.JS, JavaScript, CSS3...
